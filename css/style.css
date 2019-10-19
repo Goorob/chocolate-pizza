@@ -1,0 +1,70 @@
+
+
+    
+    h1 {
+      
+      /* font-weight: bold;
+      font-size: 40px; */
+      color:black;
+    
+    }
+    .networks {
+        float :right ;
+        margin-top: 2px;
+        margin-right: 20px;
+    }
+    .networks2{
+        float: right;
+        margin-top: 2px ;
+        margin-right : 20px ;
+    }
+    h2 {
+        float: left;
+        margin-left: 40px;
+      /* font-weight: 700;
+      font-size: 32px; */
+      color:black;
+    }
+    
+     .ph {
+        float: left;
+        margin-top: 2px; 
+       font-size: 15px;
+      font-weight: lighter;
+      color: grey;
+    }
+    
+    .choc-pizza, .ph3 {
+      margin: 0 auto;
+      width: 900px;
+      color: grey;
+    }
+    
+    .checked-box{
+      background-image: url("images/list-bg.png");
+      /* background-position: center;
+      background-size: cover; */
+      width: 900px;
+      margin: 0 auto;
+    }
+    
+    .ingredients {
+      font-family:  'Patrick Hand';
+      color: #736852;
+    }
+    
+    li {
+      display: inline-block;
+      padding-left: 60px;
+      padding-top: 5px;
+      padding-bottom: 5px;
+      width: 40%;
+      list-style: square;
+    }
+
+
+
+
+
+
+
